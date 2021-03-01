@@ -1,0 +1,23 @@
+body{
+    background-color: #08007a;
+background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+}
+
+.table-head, .table-cell{
+   
+    color: white;
+}
+
+#TH1, #TH2, #TH3 {
+    border: 2px solid white;
+}
+
+.btn-primary{
+     position: relative;
+     left: 35%;
+     margin: 3px;
+}
+
+body{
+    padding-top: 35px;
+}
